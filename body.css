@@ -14,7 +14,7 @@
 
 
   --textiary-color: rgb(121, 121, 121);
-  --first-color: #7425ec;
+  --first-color: #1298c9;
 
   /* -----------shadow------------- */
   --web-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
@@ -154,7 +154,7 @@ div i:hover {
   background-color: var(--first-color);
   border-radius: 20px;
   border: none;
-  color: var(--primary-color);
+  color: white;
   font-weight: var(--boldness);
   font-size: var(--text-size);
   cursor: pointer;
